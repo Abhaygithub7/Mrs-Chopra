@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/finale.tsx","./src/components/milestonecard.tsx","./src/components/musicplayer.tsx","./src/components/timeline.tsx","./src/data/milestones.ts","./src/lib/utils.ts"],"version":"5.9.3"}
